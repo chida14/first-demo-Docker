@@ -1,4 +1,4 @@
-name: My First Workflow
+name: Manual workflow
 on:
   workflow_dispatch: 
 jobs:
